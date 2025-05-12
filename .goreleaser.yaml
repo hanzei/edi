@@ -1,4 +1,4 @@
-project_name: lamp
+project_name: edi
 
 before:
   hooks:
